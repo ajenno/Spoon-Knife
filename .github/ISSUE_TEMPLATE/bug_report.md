@@ -10,6 +10,11 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+URL:
+User_id:
+Outlet code:
+Stack: [_e.g. uk or ireland_]
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
